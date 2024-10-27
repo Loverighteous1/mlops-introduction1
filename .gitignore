@@ -1,2 +1,3 @@
 __pycache__/
-mlops-lab1
+mlops-lab1.env
+.env
