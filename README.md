@@ -16,3 +16,5 @@ This project demonstrates the basics of setting up an MLOps pipeline using the I
 - `iris_pipeline.py` contains the ML pipeline for the Iris dataset.
 - Use the script to train and evaluate a logistic regression model.
   ...
+
+  New modifications
