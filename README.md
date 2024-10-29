@@ -18,3 +18,4 @@ This project demonstrates the basics of setting up an MLOps pipeline using the I
   ...
 
   New modifications
+Another line.
